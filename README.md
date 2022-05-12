@@ -1,3 +1,7 @@
+# This project archived.
+# Merged with original project, Please get the latest version from the original source https://github.com/judero01col/GMap.NET
+
+
 # GMap.NET - Maps For Windows
 
 ![GMap.Net](https://raw.githubusercontent.com/judero01col/GMap.NET/master/GMap.ico "this is the result")
